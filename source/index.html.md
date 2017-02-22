@@ -1,16 +1,16 @@
 ---
-title: API Reference
+title: Simplex Payment Batch API Reference
 
 language_tabs:
-  - shell
-  - ruby
+  - some stupid example
+  - csv
   - python
   - javascript--browser: Browser!
   - javascript--node: Node!
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='https://github.com/tripit/slate'>Documentation Powered by Slate</a>
+  - <a href='#'>Make risk simple today!</a>
+  - <a href='http://www.google.com'>Documentation Powered by Slate</a>
 
 includes:
   - errors
